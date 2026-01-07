@@ -1,16 +1,61 @@
-### Hi there 👋
+# Contributions
 
-<!--
-**nshcr/nshcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+```mermaid
+quadrantChart
+    title Repository Contribution Distribution (Weighted)
+    x-axis Low Issue Activity --> High Issue Activity
+    y-axis Low PR Activity --> High PR Activity
+    quadrant-1 PR Focused
+    quadrant-2 Highly Active
+    quadrant-3 Less Active
+    quadrant-4 Issue Focused
+    gitbutler: [0.950, 0.950]
+    obsidian-linter: [0.050, 0.084]
+    pnpm: [0.123, 0.050]
+    chrome-redirect-skipper: [0.128, 0.141]
+    InputSourcePro: [0.060, 0.183]
+    build-extra: [0.232, 0.050]
+    ollama-js: [0.231, 0.157]
+    obsidian-minimal: [0.156, 0.235]
+    mihon: [0.050, 0.292]
+    tauri: [0.310, 0.086]
+    vitepress: [0.406, 0.050]
+    alt-tab-macos: [0.362, 0.155]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Top Contributing Repositories
+
+| Rank | Repository | Authored | Participated | Total |
+|:----:|------------|----------:|-------------:|------:|
+| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 32 | 10 | **42** |
+| **2** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
+| **3** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
+| **4** | [ollama/ollama-js](https://github.com/ollama/ollama-js) | 1 | 1 | **2** |
+| **5** | [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | 1 | 1 | **2** |
+| **6** | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 1 | 0 | **1** |
+| **7** | [vuejs/vitepress](https://github.com/vuejs/vitepress) | 1 | 0 | **1** |
+| **8** | [pnpm/pnpm](https://github.com/pnpm/pnpm) | 1 | 0 | **1** |
+| **9** | [dogodo-cc/chrome-redirect-skipper](https://github.com/dogodo-cc/chrome-redirect-skipper) | 1 | 0 | **1** |
+| **10** | [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) | 1 | 0 | **1** |
+
+### 📊 Summary Statistics
+
+| Category | Metric | Count | Percentage |
+|----------|--------|------:|----------:|
+| **📈 Overview** | **Total Contributions** | **59** | **100%** |
+| | Active Repositories | 12 | - |
+| | Core Projects (Member/Collab) | 0 | - |
+| **✍️ Authored** | **Issues Created** | **10** | **16.9%** |
+| | 🟢 Open Issues | 6 | 10.2% |
+| | ⚫ Closed Issues | 4 | 6.8% |
+| | **Pull Requests Created** | **34** | **57.6%** |
+| | 🟣 Merged PRs | 28 | 47.5% |
+| | 🟢 Open PRs | 0 | 0.0% |
+| | 🔴 Closed PRs | 6 | 10.2% |
+| **🤝 Participated** | **Comments & Discussions** | **14** | **23.7%** |
+| | **Code Reviews** | **1** | **1.7%** |
+| | **Assigned Issues** | **0** | **0.0%** |
+
+<sub>Last updated: 2026-01-07 02:37:18 UTC</sub>
