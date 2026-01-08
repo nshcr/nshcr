@@ -12,8 +12,8 @@ quadrantChart
     quadrant-3 Less Active
     quadrant-4 Issue Focused
     gitbutler: [0.950, 0.950]
-    obsidian-linter: [0.050, 0.084]
-    pnpm: [0.123, 0.050]
+    obsidian-linter: [0.050, 0.082]
+    pnpm: [0.141, 0.050]
     chrome-redirect-skipper: [0.128, 0.141]
     InputSourcePro: [0.060, 0.183]
     build-extra: [0.232, 0.050]
@@ -29,7 +29,7 @@ quadrantChart
 
 | Rank | Repository | Authored | Participated | Total |
 |:----:|------------|----------:|-------------:|------:|
-| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 32 | 10 | **42** |
+| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 33 | 10 | **43** |
 | **2** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
 | **3** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
 | **4** | [ollama/ollama-js](https://github.com/ollama/ollama-js) | 1 | 1 | **2** |
@@ -44,18 +44,18 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **📈 Overview** | **Total Contributions** | **59** | **100%** |
+| **📈 Overview** | **Total Contributions** | **60** | **100%** |
 | | Active Repositories | 12 | - |
 | | Core Projects (Member/Collab) | 0 | - |
-| **✍️ Authored** | **Issues Created** | **10** | **16.9%** |
-| | 🟢 Open Issues | 6 | 10.2% |
-| | ⚫ Closed Issues | 4 | 6.8% |
-| | **Pull Requests Created** | **34** | **57.6%** |
-| | 🟣 Merged PRs | 28 | 47.5% |
-| | 🟢 Open PRs | 0 | 0.0% |
-| | 🔴 Closed PRs | 6 | 10.2% |
-| **🤝 Participated** | **Comments & Discussions** | **14** | **23.7%** |
+| **✍️ Authored** | **Issues Created** | **10** | **16.7%** |
+| | 🟢 Open Issues | 6 | 10.0% |
+| | ⚫ Closed Issues | 4 | 6.7% |
+| | **Pull Requests Created** | **35** | **58.3%** |
+| | 🟣 Merged PRs | 28 | 46.7% |
+| | 🟢 Open PRs | 1 | 1.7% |
+| | 🔴 Closed PRs | 6 | 10.0% |
+| **🤝 Participated** | **Comments & Discussions** | **14** | **23.3%** |
 | | **Code Reviews** | **1** | **1.7%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
-<sub>Last updated: 2026-01-07 02:37:18 UTC</sub>
+<sub>Last updated: 2026-01-08 00:06:49 UTC</sub>
