@@ -12,7 +12,7 @@ quadrantChart
     quadrant-3 Less Active
     quadrant-4 Issue Focused
     gitbutler: [0.950, 0.950]
-    obsidian-linter: [0.050, 0.082]
+    obsidian-linter: [0.050, 0.079]
     pnpm: [0.141, 0.050]
     chrome-redirect-skipper: [0.128, 0.141]
     InputSourcePro: [0.060, 0.183]
@@ -20,16 +20,16 @@ quadrantChart
     ollama-js: [0.231, 0.157]
     obsidian-minimal: [0.156, 0.235]
     mihon: [0.050, 0.292]
-    tauri: [0.310, 0.086]
-    vitepress: [0.406, 0.050]
-    alt-tab-macos: [0.362, 0.155]
+    tauri: [0.314, 0.050]
+    vitepress: [0.371, 0.110]
+    alt-tab-macos: [0.288, 0.260]
 ```
 
 ### 🏆 Top Contributing Repositories
 
 | Rank | Repository | Authored | Participated | Total |
 |:----:|------------|----------:|-------------:|------:|
-| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 33 | 10 | **43** |
+| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 35 | 10 | **45** |
 | **2** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
 | **3** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
 | **4** | [ollama/ollama-js](https://github.com/ollama/ollama-js) | 1 | 1 | **2** |
@@ -44,18 +44,18 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **📈 Overview** | **Total Contributions** | **60** | **100%** |
+| **📈 Overview** | **Total Contributions** | **62** | **100%** |
 | | Active Repositories | 12 | - |
 | | Core Projects (Member/Collab) | 0 | - |
-| **✍️ Authored** | **Issues Created** | **10** | **16.7%** |
-| | 🟢 Open Issues | 6 | 10.0% |
-| | ⚫ Closed Issues | 4 | 6.7% |
-| | **Pull Requests Created** | **35** | **58.3%** |
-| | 🟣 Merged PRs | 28 | 46.7% |
-| | 🟢 Open PRs | 1 | 1.7% |
-| | 🔴 Closed PRs | 6 | 10.0% |
-| **🤝 Participated** | **Comments & Discussions** | **14** | **23.3%** |
-| | **Code Reviews** | **1** | **1.7%** |
+| **✍️ Authored** | **Issues Created** | **11** | **17.7%** |
+| | 🟢 Open Issues | 7 | 11.3% |
+| | ⚫ Closed Issues | 4 | 6.5% |
+| | **Pull Requests Created** | **36** | **58.1%** |
+| | 🟣 Merged PRs | 28 | 45.2% |
+| | 🟢 Open PRs | 2 | 3.2% |
+| | 🔴 Closed PRs | 6 | 9.7% |
+| **🤝 Participated** | **Comments & Discussions** | **14** | **22.6%** |
+| | **Code Reviews** | **1** | **1.6%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
-<sub>Last updated: 2026-01-08 00:06:49 UTC</sub>
+<sub>Last updated: 2026-01-09 00:06:35 UTC</sub>
