@@ -12,7 +12,7 @@ quadrantChart
     quadrant-3 Less Active
     quadrant-4 Issue Focused
     gitbutler: [0.950, 0.950]
-    obsidian-linter: [0.050, 0.079]
+    obsidian-linter: [0.050, 0.074]
     pnpm: [0.141, 0.050]
     chrome-redirect-skipper: [0.128, 0.141]
     InputSourcePro: [0.060, 0.183]
@@ -29,7 +29,7 @@ quadrantChart
 
 | Rank | Repository | Authored | Participated | Total |
 |:----:|------------|----------:|-------------:|------:|
-| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 35 | 10 | **45** |
+| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 37 | 10 | **47** |
 | **2** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
 | **3** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
 | **4** | [ollama/ollama-js](https://github.com/ollama/ollama-js) | 1 | 1 | **2** |
@@ -44,18 +44,18 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **📈 Overview** | **Total Contributions** | **62** | **100%** |
+| **📈 Overview** | **Total Contributions** | **64** | **100%** |
 | | Active Repositories | 12 | - |
 | | Core Projects (Member/Collab) | 0 | - |
-| **✍️ Authored** | **Issues Created** | **11** | **17.7%** |
-| | 🟢 Open Issues | 7 | 11.3% |
-| | ⚫ Closed Issues | 4 | 6.5% |
-| | **Pull Requests Created** | **36** | **58.1%** |
-| | 🟣 Merged PRs | 28 | 45.2% |
-| | 🟢 Open PRs | 2 | 3.2% |
-| | 🔴 Closed PRs | 6 | 9.7% |
-| **🤝 Participated** | **Comments & Discussions** | **14** | **22.6%** |
+| **✍️ Authored** | **Issues Created** | **11** | **17.2%** |
+| | 🟢 Open Issues | 7 | 10.9% |
+| | ⚫ Closed Issues | 4 | 6.3% |
+| | **Pull Requests Created** | **38** | **59.4%** |
+| | 🟣 Merged PRs | 29 | 45.3% |
+| | 🟢 Open PRs | 3 | 4.7% |
+| | 🔴 Closed PRs | 6 | 9.4% |
+| **🤝 Participated** | **Comments & Discussions** | **14** | **21.9%** |
 | | **Code Reviews** | **1** | **1.6%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
-<sub>Last updated: 2026-01-09 00:06:35 UTC</sub>
+<sub>Last updated: 2026-01-10 00:06:32 UTC</sub>
