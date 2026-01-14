@@ -29,7 +29,7 @@ quadrantChart
 
 | Rank | Repository | Authored | Participated | Total |
 |:----:|------------|----------:|-------------:|------:|
-| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 37 | 10 | **47** |
+| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 37 | 11 | **48** |
 | **2** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
 | **3** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
 | **4** | [ollama/ollama-js](https://github.com/ollama/ollama-js) | 1 | 1 | **2** |
@@ -44,18 +44,18 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **📈 Overview** | **Total Contributions** | **64** | **100%** |
+| **📈 Overview** | **Total Contributions** | **65** | **100%** |
 | | Active Repositories | 12 | - |
 | | Core Projects (Member/Collab) | 0 | - |
-| **✍️ Authored** | **Issues Created** | **11** | **17.2%** |
-| | 🟢 Open Issues | 7 | 10.9% |
-| | ⚫ Closed Issues | 4 | 6.3% |
-| | **Pull Requests Created** | **38** | **59.4%** |
-| | 🟣 Merged PRs | 30 | 46.9% |
-| | 🟢 Open PRs | 1 | 1.6% |
-| | 🔴 Closed PRs | 7 | 10.9% |
-| **🤝 Participated** | **Comments & Discussions** | **14** | **21.9%** |
-| | **Code Reviews** | **1** | **1.6%** |
+| **✍️ Authored** | **Issues Created** | **11** | **16.9%** |
+| | 🟢 Open Issues | 7 | 10.8% |
+| | ⚫ Closed Issues | 4 | 6.2% |
+| | **Pull Requests Created** | **38** | **58.5%** |
+| | 🟣 Merged PRs | 30 | 46.2% |
+| | 🟢 Open PRs | 1 | 1.5% |
+| | 🔴 Closed PRs | 7 | 10.8% |
+| **🤝 Participated** | **Comments & Discussions** | **15** | **23.1%** |
+| | **Code Reviews** | **1** | **1.5%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
-<sub>Last updated: 2026-01-13 00:05:24 UTC</sub>
+<sub>Last updated: 2026-01-14 00:07:02 UTC</sub>
