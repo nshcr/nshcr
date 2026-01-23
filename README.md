@@ -2,13 +2,13 @@
 
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11753](https://github.com/gitbutlerapp/gitbutler/pull/11753) feat: add all changed files panel for applied branch view · 💬 3 · *1 week ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11752](https://github.com/gitbutlerapp/gitbutler/pull/11752) fix: subscribe persisted store to prevent reused instances from sharing state for FileListMode · 💬 2 · *1 week ago*
-- 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11746](https://github.com/gitbutlerapp/gitbutler/issues/11746) Suggestion: simplify list mode state management for the file list view · 💬 5 · *1 week ago*
-- 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11745](https://github.com/gitbutlerapp/gitbutler/pull/11745) fix: ensure first changed file is correctly selected for preview when switching between commits · 💬 4 · *1 week ago*
+- 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11746](https://github.com/gitbutlerapp/gitbutler/issues/11746) Suggestion: simplify list mode state management for the file list view · 💬 5 · *2 weeks ago*
+- 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11745](https://github.com/gitbutlerapp/gitbutler/pull/11745) fix: ensure first changed file is correctly selected for preview when switching between commits · 💬 4 · *2 weeks ago*
 - 🔴 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11723](https://github.com/gitbutlerapp/gitbutler/pull/11723) feat: software localization (i18n support) 📝 | ❤️ 1 · 💬 6 · *2 weeks ago*
 - 📋 **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** · [#14735](https://github.com/tauri-apps/tauri/issues/14735) [feat] bundler: Enable multithreaded compression when building RPMs with the zstd · *2 weeks ago*
 - 🟣 **[pnpm/pnpm](https://github.com/pnpm/pnpm)** · [#10384](https://github.com/pnpm/pnpm/pull/10384) fix(store): return only directory names when clean expired cache · 💬 1 · *3 weeks ago*
 - 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11660](https://github.com/gitbutlerapp/gitbutler/issues/11660) Optionally display commits from all merged branches in the workspace target's commit history | ❤️ 1 👀 1 · 💬 3 · *3 weeks ago*
-- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11625](https://github.com/gitbutlerapp/gitbutler/pull/11625) feat(settings): add img-src extra hosts and propagate to CSP · 💬 1 · *3 weeks ago*
+- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11625](https://github.com/gitbutlerapp/gitbutler/pull/11625) feat(settings): add img-src extra hosts and propagate to CSP · 💬 1 · *4 weeks ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11611](https://github.com/gitbutlerapp/gitbutler/pull/11611) feat(gitlab): support rebase / squash merge method for MR · 💬 6 · *4 weeks ago*
 
 ###### Overview
@@ -75,4 +75,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-01-22 00:04:16 UTC</sub>
+<sub>Last updated: 2026-01-23 00:04:30 UTC</sub>
