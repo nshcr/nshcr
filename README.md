@@ -8,7 +8,7 @@
 - 📋 **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** · [#14735](https://github.com/tauri-apps/tauri/issues/14735) [feat] bundler: Enable multithreaded compression when building RPMs with the zstd · *2 weeks ago*
 - 🟣 **[pnpm/pnpm](https://github.com/pnpm/pnpm)** · [#10384](https://github.com/pnpm/pnpm/pull/10384) fix(store): return only directory names when clean expired cache · 💬 1 · *3 weeks ago*
 - 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11660](https://github.com/gitbutlerapp/gitbutler/issues/11660) Optionally display commits from all merged branches in the workspace target's commit history | ❤️ 1 👀 1 · 💬 3 · *3 weeks ago*
-- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11625](https://github.com/gitbutlerapp/gitbutler/pull/11625) feat(settings): add img-src extra hosts and propagate to CSP · 💬 1 · *4 weeks ago*
+- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11625](https://github.com/gitbutlerapp/gitbutler/pull/11625) feat(settings): add img-src extra hosts and propagate to CSP · 💬 1 · *1 month ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11611](https://github.com/gitbutlerapp/gitbutler/pull/11611) feat(gitlab): support rebase / squash merge method for MR · 💬 6 · *1 month ago*
 
 ###### Overview
@@ -75,4 +75,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-01-25 00:04:21 UTC</sub>
+<sub>Last updated: 2026-01-26 00:04:02 UTC</sub>
