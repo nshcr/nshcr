@@ -34,6 +34,7 @@ quadrantChart
     tauri: [0.314, 0.050]
     vitepress: [0.371, 0.110]
     alt-tab-macos: [0.288, 0.260]
+    orbstack: [0.165, 0.329]
 ```
 
 <details>
@@ -59,20 +60,20 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **Overview** | **Total Contributions** | **66** | **100%** |
-| | Active Repositories | 12 | - |
+| **Overview** | **Total Contributions** | **67** | **100%** |
+| | Active Repositories | 13 | - |
 | | Core Projects (Member/Collab) | 0 | - |
-| **Authored** | **Issues Created** | **11** | **16.7%** |
-| | 🟢 Open Issues | 7 | 10.6% |
-| | ⚫ Closed Issues | 4 | 6.1% |
-| | **Pull Requests Created** | **38** | **57.6%** |
-| | 🟣 Merged PRs | 30 | 45.5% |
+| **Authored** | **Issues Created** | **11** | **16.4%** |
+| | 🟢 Open Issues | 7 | 10.4% |
+| | ⚫ Closed Issues | 4 | 6.0% |
+| | **Pull Requests Created** | **38** | **56.7%** |
+| | 🟣 Merged PRs | 30 | 44.8% |
 | | 🟢 Open PRs | 0 | 0.0% |
-| | 🔴 Closed PRs | 8 | 12.1% |
-| **Participated** | **Comments & Discussions** | **16** | **24.2%** |
+| | 🔴 Closed PRs | 8 | 11.9% |
+| **Participated** | **Comments & Discussions** | **17** | **25.4%** |
 | | **Code Reviews** | **1** | **1.5%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
 </details>
 
-<sub>Last updated: 2026-01-31 00:05:33 UTC</sub>
+<sub>Last updated: 2026-02-03 00:06:57 UTC</sub>
