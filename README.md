@@ -1,5 +1,6 @@
 ###### Recent Contributions
 
+- 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12488](https://github.com/gitbutlerapp/gitbutler/pull/12488) feat(ui): use backend normalize method to validate user-entered branch names · 💬 3 · *today*
 - 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12267](https://github.com/gitbutlerapp/gitbutler/issues/12267) Abnormal behavior of the "Add empty commit" feature · 💬 6 · *2 weeks ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12212](https://github.com/gitbutlerapp/gitbutler/pull/12212) fix: use a unified file list sorting rule in both list and tree views · 💬 7 · *2 weeks ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12189](https://github.com/gitbutlerapp/gitbutler/pull/12189) fix(skill): Update GitHub Copilot skill path to correct location · 💬 6 · *2 weeks ago*
@@ -9,7 +10,6 @@
 - 🔴 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11745](https://github.com/gitbutlerapp/gitbutler/pull/11745) fix: ensure first changed file is correctly selected for preview when switching between commits · 💬 5 · *1 month ago*
 - 🔴 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11723](https://github.com/gitbutlerapp/gitbutler/pull/11723) feat: software localization (i18n support) 📝 | ❤️ 1 · 💬 6 · *1 month ago*
 - 📋 **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** · [#14735](https://github.com/tauri-apps/tauri/issues/14735) [feat] bundler: Enable multithreaded compression when building RPMs with the zstd · *1 month ago*
-- 🟣 **[pnpm/pnpm](https://github.com/pnpm/pnpm)** · [#10384](https://github.com/pnpm/pnpm/pull/10384) fix(store): return only directory names when clean expired cache · 💬 1 · *1 month ago*
 
 ###### Overview
 
@@ -23,7 +23,7 @@ quadrantChart
     quadrant-3 Less Active
     quadrant-4 Issue Focused
     gitbutler: [0.950, 0.950]
-    obsidian-linter: [0.050, 0.069]
+    obsidian-linter: [0.050, 0.067]
     pnpm: [0.141, 0.050]
     chrome-redirect-skipper: [0.128, 0.141]
     InputSourcePro: [0.060, 0.183]
@@ -43,7 +43,7 @@ quadrantChart
 
 | Rank | Repository | Authored | Participated | Total |
 |:----:|------------|----------:|-------------:|------:|
-| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 40 | 13 | **53** |
+| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 41 | 14 | **55** |
 | **2** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
 | **3** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
 | **4** | [ollama/ollama-js](https://github.com/ollama/ollama-js) | 1 | 1 | **2** |
@@ -61,20 +61,20 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **Overview** | **Total Contributions** | **72** | **100%** |
+| **Overview** | **Total Contributions** | **74** | **100%** |
 | | Active Repositories | 14 | - |
 | | Core Projects (Member/Collab) | 0 | - |
-| **Authored** | **Issues Created** | **12** | **16.7%** |
-| | 🟢 Open Issues | 8 | 11.1% |
-| | ⚫ Closed Issues | 4 | 5.6% |
-| | **Pull Requests Created** | **40** | **55.6%** |
-| | 🟣 Merged PRs | 32 | 44.4% |
-| | 🟢 Open PRs | 0 | 0.0% |
-| | 🔴 Closed PRs | 8 | 11.1% |
-| **Participated** | **Comments & Discussions** | **19** | **26.4%** |
+| **Authored** | **Issues Created** | **12** | **16.2%** |
+| | 🟢 Open Issues | 8 | 10.8% |
+| | ⚫ Closed Issues | 4 | 5.4% |
+| | **Pull Requests Created** | **41** | **55.4%** |
+| | 🟣 Merged PRs | 32 | 43.2% |
+| | 🟢 Open PRs | 1 | 1.4% |
+| | 🔴 Closed PRs | 8 | 10.8% |
+| **Participated** | **Comments & Discussions** | **20** | **27.0%** |
 | | **Code Reviews** | **1** | **1.4%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
 </details>
 
-<sub>Last updated: 2026-02-22 00:05:08 UTC</sub>
+<sub>Last updated: 2026-02-23 00:05:34 UTC</sub>
