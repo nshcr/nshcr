@@ -1,9 +1,9 @@
 ###### Recent Contributions
 
-- 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12488](https://github.com/gitbutlerapp/gitbutler/pull/12488) feat(ui): use backend normalize method to validate user-entered branch names · 💬 6 · *2 days ago*
+- 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12488](https://github.com/gitbutlerapp/gitbutler/pull/12488) feat(ui): use backend normalize method to validate user-entered branch names · 💬 6 · *3 days ago*
 - 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12267](https://github.com/gitbutlerapp/gitbutler/issues/12267) Abnormal behavior of the "Add empty commit" feature · 💬 6 · *2 weeks ago*
-- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12212](https://github.com/gitbutlerapp/gitbutler/pull/12212) fix: use a unified file list sorting rule in both list and tree views · 💬 7 · *2 weeks ago*
-- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12189](https://github.com/gitbutlerapp/gitbutler/pull/12189) fix(skill): Update GitHub Copilot skill path to correct location · 💬 6 · *2 weeks ago*
+- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12212](https://github.com/gitbutlerapp/gitbutler/pull/12212) fix: use a unified file list sorting rule in both list and tree views · 💬 7 · *3 weeks ago*
+- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12189](https://github.com/gitbutlerapp/gitbutler/pull/12189) fix(skill): Update GitHub Copilot skill path to correct location · 💬 6 · *3 weeks ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11753](https://github.com/gitbutlerapp/gitbutler/pull/11753) feat: add all changed files panel for applied branch view · 💬 3 · *1 month ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11752](https://github.com/gitbutlerapp/gitbutler/pull/11752) fix: subscribe persisted store to prevent reused instances from sharing state for FileListMode · 💬 2 · *1 month ago*
 - 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11746](https://github.com/gitbutlerapp/gitbutler/issues/11746) Suggestion: simplify list mode state management for the file list view · 💬 5 · *1 month ago*
@@ -77,4 +77,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-02-25 00:07:52 UTC</sub>
+<sub>Last updated: 2026-02-26 00:06:46 UTC</sub>
