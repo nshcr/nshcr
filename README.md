@@ -9,7 +9,7 @@
 - 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11746](https://github.com/gitbutlerapp/gitbutler/issues/11746) Suggestion: simplify list mode state management for the file list view · 💬 5 · *1 month ago*
 - 🔴 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11745](https://github.com/gitbutlerapp/gitbutler/pull/11745) fix: ensure first changed file is correctly selected for preview when switching between commits · 💬 5 · *1 month ago*
 - 🔴 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11723](https://github.com/gitbutlerapp/gitbutler/pull/11723) feat: software localization (i18n support) 📝 | ❤️ 1 · 💬 6 · *1 month ago*
-- 📋 **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** · [#14735](https://github.com/tauri-apps/tauri/issues/14735) [feat] bundler: Enable multithreaded compression when building RPMs with the zstd · *1 month ago*
+- 📋 **[tauri-apps/tauri](https://github.com/tauri-apps/tauri)** · [#14735](https://github.com/tauri-apps/tauri/issues/14735) [feat] bundler: Enable multithreaded compression when building RPMs with the zstd · *2 months ago*
 
 ###### Overview
 
@@ -77,4 +77,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-03-06 00:11:28 UTC</sub>
+<sub>Last updated: 2026-03-07 00:05:35 UTC</sub>
