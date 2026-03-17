@@ -1,9 +1,9 @@
 ###### Recent Contributions
 
-- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12818](https://github.com/gitbutlerapp/gitbutler/pull/12818) tauri: scope menu shortcuts to focused window · 💬 1 · *2 days ago*
-- 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12816](https://github.com/gitbutlerapp/gitbutler/issues/12816) Suggestion: Reduce the minimum window size constraint · 💬 1 · *2 days ago*
+- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12818](https://github.com/gitbutlerapp/gitbutler/pull/12818) tauri: scope menu shortcuts to focused window · 💬 1 · *3 days ago*
+- 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12816](https://github.com/gitbutlerapp/gitbutler/issues/12816) Suggestion: Reduce the minimum window size constraint · 💬 1 · *3 days ago*
 - 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12488](https://github.com/gitbutlerapp/gitbutler/pull/12488) feat(ui): use backend normalize method to validate user-entered branch names · 💬 6 · *3 weeks ago*
-- 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12267](https://github.com/gitbutlerapp/gitbutler/issues/12267) Abnormal behavior of the "Add empty commit" feature · 💬 6 · *1 month ago*
+- ✅ **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12267](https://github.com/gitbutlerapp/gitbutler/issues/12267) Abnormal behavior of the "Add empty commit" feature · 💬 7 · *1 month ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12212](https://github.com/gitbutlerapp/gitbutler/pull/12212) fix: use a unified file list sorting rule in both list and tree views · 💬 7 · *1 month ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12189](https://github.com/gitbutlerapp/gitbutler/pull/12189) fix(skill): Update GitHub Copilot skill path to correct location · 💬 6 · *1 month ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#11753](https://github.com/gitbutlerapp/gitbutler/pull/11753) feat: add all changed files panel for applied branch view · 💬 3 · *2 months ago*
@@ -31,11 +31,11 @@ quadrantChart
     ollama-js: [0.231, 0.157]
     obsidian-minimal: [0.156, 0.235]
     mihon: [0.050, 0.292]
-    tauri: [0.327, 0.050]
-    vitepress: [0.368, 0.153]
-    alt-tab-macos: [0.274, 0.260]
+    tauri: [0.337, 0.050]
+    vitepress: [0.238, 0.248]
+    alt-tab-macos: [0.337, 0.155]
     orbstack: [0.165, 0.329]
-    gitbutler-docs: [0.105, 0.397]
+    gitbutler-docs: [0.332, 0.248]
 ```
 
 <details>
@@ -65,8 +65,8 @@ quadrantChart
 | | Active Repositories | 14 | - |
 | | Core Projects (Member/Collab) | 0 | - |
 | **Authored** | **Issues Created** | **13** | **16.9%** |
-| | 🟢 Open Issues | 9 | 11.7% |
-| | ⚫ Closed Issues | 4 | 5.2% |
+| | 🟢 Open Issues | 8 | 10.4% |
+| | ⚫ Closed Issues | 5 | 6.5% |
 | | **Pull Requests Created** | **42** | **54.5%** |
 | | 🟣 Merged PRs | 33 | 42.9% |
 | | 🟢 Open PRs | 1 | 1.3% |
@@ -77,4 +77,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-03-16 00:07:25 UTC</sub>
+<sub>Last updated: 2026-03-17 00:06:33 UTC</sub>
