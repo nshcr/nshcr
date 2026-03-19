@@ -1,7 +1,7 @@
 ###### Recent Contributions
 
-- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12818](https://github.com/gitbutlerapp/gitbutler/pull/12818) tauri: scope menu shortcuts to focused window · 💬 1 · *4 days ago*
-- 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12816](https://github.com/gitbutlerapp/gitbutler/issues/12816) Suggestion: Reduce the minimum window size constraint · 💬 1 · *4 days ago*
+- 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12818](https://github.com/gitbutlerapp/gitbutler/pull/12818) tauri: scope menu shortcuts to focused window · 💬 1 · *5 days ago*
+- 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12816](https://github.com/gitbutlerapp/gitbutler/issues/12816) Suggestion: Reduce the minimum window size constraint · 💬 1 · *5 days ago*
 - 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12488](https://github.com/gitbutlerapp/gitbutler/pull/12488) feat(ui): use backend normalize method to validate user-entered branch names · 💬 6 · *3 weeks ago*
 - ✅ **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12267](https://github.com/gitbutlerapp/gitbutler/issues/12267) Abnormal behavior of the "Add empty commit" feature · 💬 7 · *1 month ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12212](https://github.com/gitbutlerapp/gitbutler/pull/12212) fix: use a unified file list sorting rule in both list and tree views · 💬 7 · *1 month ago*
@@ -77,4 +77,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-03-18 00:08:01 UTC</sub>
+<sub>Last updated: 2026-03-19 00:07:04 UTC</sub>
