@@ -1,9 +1,9 @@
 ###### Recent Contributions
 
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#4](https://github.com/nshcr/DockAutoHide/pull/4) ci: add immutable release validation and asset verification · *today*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#3](https://github.com/nshcr/DockAutoHide/pull/3) ci: restrict release uploads and add homebrew tap automation · *today*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#2](https://github.com/nshcr/DockAutoHide/pull/2) refactor: improve dock frame fallback logic · *1 day ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#1](https://github.com/nshcr/DockAutoHide/pull/1) feat: restore manual dock auto-hide on app quit · *1 day ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#4](https://github.com/nshcr/DockAutoHide/pull/4) ci: add immutable release validation and asset verification · *1 day ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#3](https://github.com/nshcr/DockAutoHide/pull/3) ci: restrict release uploads and add homebrew tap automation · *1 day ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#2](https://github.com/nshcr/DockAutoHide/pull/2) refactor: improve dock frame fallback logic · *2 days ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#1](https://github.com/nshcr/DockAutoHide/pull/1) feat: restore manual dock auto-hide on app quit · *2 days ago*
 - 🟣 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12818](https://github.com/gitbutlerapp/gitbutler/pull/12818) tauri: scope menu shortcuts to focused window · 💬 1 · *1 week ago*
 - 📋 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12816](https://github.com/gitbutlerapp/gitbutler/issues/12816) Suggestion: Reduce the minimum window size constraint · 💬 1 · *1 week ago*
 - 🔀 **[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)** · [#12488](https://github.com/gitbutlerapp/gitbutler/pull/12488) feat(ui): use backend normalize method to validate user-entered branch names · 💬 6 · *1 month ago*
@@ -78,4 +78,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-03-24 00:06:11 UTC</sub>
+<sub>Last updated: 2026-03-25 00:07:28 UTC</sub>
