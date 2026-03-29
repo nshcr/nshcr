@@ -1,13 +1,13 @@
 ###### Recent Contributions
 
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *today*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *today*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#8](https://github.com/nshcr/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *today*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#7](https://github.com/nshcr/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *today*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#6](https://github.com/nshcr/DockAutoHide/pull/6) build: remove test targets from scheme · *today*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *1 day ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *1 day ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#8](https://github.com/nshcr/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *1 day ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#7](https://github.com/nshcr/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *1 day ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#6](https://github.com/nshcr/DockAutoHide/pull/6) build: remove test targets from scheme · *1 day ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#5](https://github.com/nshcr/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *2 days ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#4](https://github.com/nshcr/DockAutoHide/pull/4) ci: add immutable release validation and asset verification · *5 days ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#3](https://github.com/nshcr/DockAutoHide/pull/3) ci: restrict release uploads and add homebrew tap automation · *5 days ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#4](https://github.com/nshcr/DockAutoHide/pull/4) ci: add immutable release validation and asset verification · *6 days ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#3](https://github.com/nshcr/DockAutoHide/pull/3) ci: restrict release uploads and add homebrew tap automation · *6 days ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#2](https://github.com/nshcr/DockAutoHide/pull/2) refactor: improve dock frame fallback logic · *6 days ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#1](https://github.com/nshcr/DockAutoHide/pull/1) feat: restore manual dock auto-hide on app quit · *6 days ago*
 
@@ -15,28 +15,28 @@
 
 ```mermaid
 quadrantChart
-    title Repository Contribution Distribution (Weighted)
-    x-axis Low Issue Activity --> High Issue Activity
-    y-axis Low PR Activity --> High PR Activity
-    quadrant-1 PR Focused
-    quadrant-2 Highly Active
-    quadrant-3 Less Active
-    quadrant-4 Issue Focused
-    gitbutler: [0.950, 0.950]
-    DockAutoHide: [0.050, 0.326]
-    obsidian-linter: [0.050, 0.065]
-    pnpm: [0.141, 0.050]
-    chrome-redirect-skipper: [0.128, 0.141]
-    InputSourcePro: [0.060, 0.183]
-    build-extra: [0.232, 0.050]
-    ollama-js: [0.231, 0.157]
-    obsidian-minimal: [0.156, 0.235]
-    mihon: [0.323, 0.050]
-    tauri: [0.321, 0.161]
-    vitepress: [0.238, 0.248]
-    alt-tab-macos: [0.178, 0.333]
-    orbstack: [0.050, 0.358]
-    gitbutler-docs: [0.332, 0.248]
+    title Repository Contribution Distribution
+    x-axis Low Issues --> High Issues
+    y-axis Low PRs --> High PRs
+    quadrant-1 PR-led
+    quadrant-2 Maintainers
+    quadrant-3 Passing
+    quadrant-4 Issue-led
+    gitbutler: [0.726, 0.828]
+    DockAutoHide: [0.080, 0.650]
+    obsidian-linter: [0.080, 0.380]
+    ollama-js: [0.165, 0.205]
+    obsidian-minimal: [0.108, 0.230]
+    alt-tab-macos: [0.328, 0.080]
+    pnpm: [0.137, 0.130]
+    chrome-redirect-skipper: [0.222, 0.105]
+    InputSourcePro: [0.193, 0.355]
+    build-extra: [0.250, 0.180]
+    mihon: [0.300, 0.255]
+    tauri: [0.442, 0.155]
+    vitepress: [0.413, 0.305]
+    gitbutler-docs: [0.385, 0.280]
+    orbstack: [0.357, 0.330]
 ```
 
 <details>
@@ -78,4 +78,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-03-29 00:07:51 UTC</sub>
+<sub>Last updated: 2026-03-29 06:41:27 UTC</sub>
