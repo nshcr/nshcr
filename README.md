@@ -1,10 +1,10 @@
 ###### Recent Contributions
 
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *6 days ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *6 days ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#8](https://github.com/nshcr/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *6 days ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#7](https://github.com/nshcr/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *6 days ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#6](https://github.com/nshcr/DockAutoHide/pull/6) build: remove test targets from scheme · *6 days ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *1 week ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *1 week ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#8](https://github.com/nshcr/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *1 week ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#7](https://github.com/nshcr/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *1 week ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#6](https://github.com/nshcr/DockAutoHide/pull/6) build: remove test targets from scheme · *1 week ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#5](https://github.com/nshcr/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *1 week ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#4](https://github.com/nshcr/DockAutoHide/pull/4) ci: add immutable release validation and asset verification · *1 week ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#3](https://github.com/nshcr/DockAutoHide/pull/3) ci: restrict release uploads and add homebrew tap automation · *1 week ago*
@@ -78,4 +78,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-04-04 00:07:24 UTC</sub>
+<sub>Last updated: 2026-04-05 00:08:02 UTC</sub>
