@@ -8,8 +8,8 @@
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#5](https://github.com/nshcr/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *3 weeks ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#4](https://github.com/nshcr/DockAutoHide/pull/4) ci: add immutable release validation and asset verification · *3 weeks ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#3](https://github.com/nshcr/DockAutoHide/pull/3) ci: restrict release uploads and add homebrew tap automation · *3 weeks ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#2](https://github.com/nshcr/DockAutoHide/pull/2) refactor: improve dock frame fallback logic · *3 weeks ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#1](https://github.com/nshcr/DockAutoHide/pull/1) feat: restore manual dock auto-hide on app quit · *3 weeks ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#2](https://github.com/nshcr/DockAutoHide/pull/2) refactor: improve dock frame fallback logic · *4 weeks ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#1](https://github.com/nshcr/DockAutoHide/pull/1) feat: restore manual dock auto-hide on app quit · *4 weeks ago*
 
 ###### Overview
 
@@ -78,4 +78,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-04-19 00:10:20 UTC</sub>
+<sub>Last updated: 2026-04-20 00:11:45 UTC</sub>
