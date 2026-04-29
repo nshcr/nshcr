@@ -1,10 +1,10 @@
 ###### Recent Contributions
 
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *4 weeks ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *4 weeks ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#8](https://github.com/nshcr/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *4 weeks ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#7](https://github.com/nshcr/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *4 weeks ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#6](https://github.com/nshcr/DockAutoHide/pull/6) build: remove test targets from scheme · *4 weeks ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *1 month ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *1 month ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#8](https://github.com/nshcr/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *1 month ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#7](https://github.com/nshcr/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *1 month ago*
+- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#6](https://github.com/nshcr/DockAutoHide/pull/6) build: remove test targets from scheme · *1 month ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#5](https://github.com/nshcr/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *1 month ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#4](https://github.com/nshcr/DockAutoHide/pull/4) ci: add immutable release validation and asset verification · *1 month ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#3](https://github.com/nshcr/DockAutoHide/pull/3) ci: restrict release uploads and add homebrew tap automation · *1 month ago*
@@ -22,20 +22,21 @@ quadrantChart
     quadrant-2 Maintainers
     quadrant-3 Passing
     quadrant-4 Issue-led
-    gitbutler: [0.726, 0.677]
-    DockAutoHide: [0.080, 0.380]
-    obsidian-linter: [0.108, 0.230]
-    ollama-js: [0.250, 0.180]
-    alt-tab-macos: [0.392, 0.080]
-    pnpm: [0.137, 0.130]
-    chrome-redirect-skipper: [0.222, 0.280]
-    InputSourcePro: [0.307, 0.155]
-    mihon: [0.165, 0.330]
-    tauri: [0.335, 0.205]
-    vitepress: [0.363, 0.255]
-    gitbutler-docs: [0.278, 0.305]
-    orbstack: [0.420, 0.355]
-    obsidian-minimal: [0.193, 0.105]
+    gitbutler: [0.726, 0.741]
+    DockAutoHide: [0.080, 0.620]
+    obsidian-linter: [0.080, 0.280]
+    ollama-js: [0.193, 0.180]
+    alt-tab-macos: [0.335, 0.080]
+    pnpm: [0.108, 0.155]
+    chrome-redirect-skipper: [0.250, 0.130]
+    InputSourcePro: [0.222, 0.305]
+    build-extra: [0.278, 0.205]
+    mihon: [0.165, 0.380]
+    tauri: [0.420, 0.230]
+    vitepress: [0.307, 0.330]
+    gitbutler-docs: [0.392, 0.255]
+    orbstack: [0.363, 0.355]
+    obsidian-minimal: [0.137, 0.105]
 ```
 
 <details>
@@ -61,20 +62,20 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **Overview** | **Total Contributions** | **83** | **100%** |
-| | Active Repositories | 14 | - |
+| **Overview** | **Total Contributions** | **84** | **100%** |
+| | Active Repositories | 15 | - |
 | | Core Projects (Member/Collab) | 1 | - |
-| **Authored** | **Issues Created** | **13** | **15.7%** |
-| | 🟢 Open Issues | 8 | 9.6% |
+| **Authored** | **Issues Created** | **13** | **15.5%** |
+| | 🟢 Open Issues | 8 | 9.5% |
 | | ⚫ Closed Issues | 5 | 6.0% |
-| | **Pull Requests Created** | **48** | **57.8%** |
-| | 🟣 Merged PRs | 39 | 47.0% |
+| | **Pull Requests Created** | **49** | **58.3%** |
+| | 🟣 Merged PRs | 40 | 47.6% |
 | | 🟢 Open PRs | 1 | 1.2% |
-| | 🔴 Closed PRs | 8 | 9.6% |
-| **Participated** | **Comments & Discussions** | **21** | **25.3%** |
+| | 🔴 Closed PRs | 8 | 9.5% |
+| **Participated** | **Comments & Discussions** | **21** | **25.0%** |
 | | **Code Reviews** | **1** | **1.2%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
 </details>
 
-<sub>Last updated: 2026-04-28 00:16:53 UTC</sub>
+<sub>Last updated: 2026-04-29 00:18:11 UTC</sub>
