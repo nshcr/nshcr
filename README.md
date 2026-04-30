@@ -22,21 +22,21 @@ quadrantChart
     quadrant-2 Maintainers
     quadrant-3 Passing
     quadrant-4 Issue-led
-    gitbutler: [0.726, 0.741]
-    DockAutoHide: [0.080, 0.620]
-    obsidian-linter: [0.080, 0.280]
-    ollama-js: [0.193, 0.180]
-    alt-tab-macos: [0.335, 0.080]
-    pnpm: [0.108, 0.155]
-    chrome-redirect-skipper: [0.250, 0.130]
-    InputSourcePro: [0.222, 0.305]
-    build-extra: [0.278, 0.205]
-    mihon: [0.165, 0.380]
-    tauri: [0.420, 0.230]
-    vitepress: [0.307, 0.330]
-    gitbutler-docs: [0.392, 0.255]
-    orbstack: [0.363, 0.355]
-    obsidian-minimal: [0.137, 0.105]
+    gitbutler: [0.726, 0.828]
+    DockAutoHide: [0.080, 0.650]
+    obsidian-linter: [0.080, 0.380]
+    ollama-js: [0.165, 0.205]
+    obsidian-minimal: [0.108, 0.230]
+    alt-tab-macos: [0.328, 0.080]
+    pnpm: [0.137, 0.130]
+    chrome-redirect-skipper: [0.222, 0.105]
+    InputSourcePro: [0.193, 0.355]
+    build-extra: [0.250, 0.180]
+    mihon: [0.300, 0.255]
+    tauri: [0.442, 0.155]
+    vitepress: [0.413, 0.305]
+    gitbutler-docs: [0.385, 0.280]
+    orbstack: [0.357, 0.330]
 ```
 
 <details>
@@ -44,16 +44,16 @@ quadrantChart
 
 | Rank | Repository | Authored | Participated | Total |
 |:----:|------------|----------:|-------------:|------:|
-| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 41 | 15 | **56** |
+| **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 43 | 15 | **58** |
 | **2** | [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) | 10 | 0 | **10** |
 | **3** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
 | **4** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
 | **5** | [ollama/ollama-js](https://github.com/ollama/ollama-js) | 1 | 1 | **2** |
-| **6** | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 1 | 0 | **1** |
-| **7** | [vuejs/vitepress](https://github.com/vuejs/vitepress) | 1 | 0 | **1** |
-| **8** | [pnpm/pnpm](https://github.com/pnpm/pnpm) | 1 | 0 | **1** |
-| **9** | [dogodo-cc/chrome-redirect-skipper](https://github.com/dogodo-cc/chrome-redirect-skipper) | 1 | 0 | **1** |
-| **10** | [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) | 1 | 0 | **1** |
+| **6** | [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | 1 | 1 | **2** |
+| **7** | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 1 | 0 | **1** |
+| **8** | [vuejs/vitepress](https://github.com/vuejs/vitepress) | 1 | 0 | **1** |
+| **9** | [pnpm/pnpm](https://github.com/pnpm/pnpm) | 1 | 0 | **1** |
+| **10** | [dogodo-cc/chrome-redirect-skipper](https://github.com/dogodo-cc/chrome-redirect-skipper) | 1 | 0 | **1** |
 
 </details>
 
@@ -62,20 +62,20 @@ quadrantChart
 
 | Category | Metric | Count | Percentage |
 |----------|--------|------:|----------:|
-| **Overview** | **Total Contributions** | **84** | **100%** |
+| **Overview** | **Total Contributions** | **87** | **100%** |
 | | Active Repositories | 15 | - |
 | | Core Projects (Member/Collab) | 1 | - |
-| **Authored** | **Issues Created** | **13** | **15.5%** |
-| | 🟢 Open Issues | 8 | 9.5% |
-| | ⚫ Closed Issues | 5 | 6.0% |
-| | **Pull Requests Created** | **49** | **58.3%** |
-| | 🟣 Merged PRs | 40 | 47.6% |
-| | 🟢 Open PRs | 1 | 1.2% |
-| | 🔴 Closed PRs | 8 | 9.5% |
-| **Participated** | **Comments & Discussions** | **21** | **25.0%** |
-| | **Code Reviews** | **1** | **1.2%** |
+| **Authored** | **Issues Created** | **13** | **14.9%** |
+| | 🟢 Open Issues | 8 | 9.2% |
+| | ⚫ Closed Issues | 5 | 5.7% |
+| | **Pull Requests Created** | **52** | **59.8%** |
+| | 🟣 Merged PRs | 43 | 49.4% |
+| | 🟢 Open PRs | 1 | 1.1% |
+| | 🔴 Closed PRs | 8 | 9.2% |
+| **Participated** | **Comments & Discussions** | **21** | **24.1%** |
+| | **Code Reviews** | **1** | **1.1%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
 </details>
 
-<sub>Last updated: 2026-04-29 00:18:11 UTC</sub>
+<sub>Last updated: 2026-04-30 00:18:03 UTC</sub>
