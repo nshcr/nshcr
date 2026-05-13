@@ -22,7 +22,7 @@ quadrantChart
     quadrant-2 Maintainers
     quadrant-3 Passing
     quadrant-4 Issue-led
-    gitbutler: [0.726, 0.828]
+    gitbutler: [0.726, 0.827]
     DockAutoHide: [0.080, 0.650]
     obsidian-linter: [0.080, 0.380]
     ollama-js: [0.165, 0.205]
@@ -70,12 +70,12 @@ quadrantChart
 | | ⚫ Closed Issues | 5 | 5.7% |
 | | **Pull Requests Created** | **52** | **59.8%** |
 | | 🟣 Merged PRs | 43 | 49.4% |
-| | 🟢 Open PRs | 1 | 1.1% |
-| | 🔴 Closed PRs | 8 | 9.2% |
+| | 🟢 Open PRs | 0 | 0.0% |
+| | 🔴 Closed PRs | 9 | 10.3% |
 | **Participated** | **Comments & Discussions** | **21** | **24.1%** |
 | | **Code Reviews** | **1** | **1.1%** |
 | | **Assigned Issues** | **0** | **0.0%** |
 
 </details>
 
-<sub>Last updated: 2026-05-09 00:19:01 UTC</sub>
+<sub>Last updated: 2026-05-13 00:21:16 UTC</sub>
