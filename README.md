@@ -22,7 +22,7 @@ quadrantChart
     quadrant-2 Maintainers
     quadrant-3 Passing
     quadrant-4 Issue-led
-    gitbutler: [0.726, 0.827]
+    gitbutler: [0.726, 0.828]
     DockAutoHide: [0.080, 0.650]
     obsidian-linter: [0.080, 0.380]
     ollama-js: [0.165, 0.205]
@@ -78,4 +78,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-07-07 00:23:30 UTC</sub>
+<sub>Last updated: 2026-07-09 00:23:07 UTC</sub>
