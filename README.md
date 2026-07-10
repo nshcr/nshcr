@@ -24,19 +24,19 @@ quadrantChart
     quadrant-4 Issue-led
     gitbutler: [0.726, 0.828]
     DockAutoHide: [0.080, 0.650]
-    obsidian-linter: [0.080, 0.380]
+    obsidian-linter: [0.080, 0.355]
     ollama-js: [0.165, 0.205]
     obsidian-minimal: [0.108, 0.230]
-    alt-tab-macos: [0.328, 0.080]
+    alt-tab-macos: [0.335, 0.080]
     pnpm: [0.137, 0.130]
     chrome-redirect-skipper: [0.222, 0.105]
-    InputSourcePro: [0.193, 0.355]
-    build-extra: [0.250, 0.180]
-    mihon: [0.300, 0.255]
-    tauri: [0.442, 0.155]
-    vitepress: [0.413, 0.305]
-    gitbutler-docs: [0.385, 0.280]
-    orbstack: [0.357, 0.330]
+    InputSourcePro: [0.193, 0.330]
+    build-extra: [0.278, 0.180]
+    mihon: [0.307, 0.255]
+    tauri: [0.420, 0.155]
+    vitepress: [0.250, 0.380]
+    gitbutler-docs: [0.392, 0.280]
+    orbstack: [0.363, 0.305]
 ```
 
 <details>
@@ -66,8 +66,8 @@ quadrantChart
 | | Active Repositories | 15 | - |
 | | Core Projects (Member/Collab) | 1 | - |
 | **Authored** | **Issues Created** | **13** | **14.9%** |
-| | 🟢 Open Issues | 8 | 9.2% |
-| | ⚫ Closed Issues | 5 | 5.7% |
+| | 🟢 Open Issues | 7 | 8.0% |
+| | ⚫ Closed Issues | 6 | 6.9% |
 | | **Pull Requests Created** | **52** | **59.8%** |
 | | 🟣 Merged PRs | 43 | 49.4% |
 | | 🟢 Open PRs | 0 | 0.0% |
@@ -78,4 +78,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-07-09 00:23:07 UTC</sub>
+<sub>Last updated: 2026-07-10 00:23:19 UTC</sub>
