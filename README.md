@@ -1,6 +1,6 @@
 ###### Recent Contributions
 
-- 🔀 **[Byron/dua-cli](https://github.com/Byron/dua-cli)** · [#379](https://github.com/Byron/dua-cli/pull/379) Match macOS `du` allocation accounting · *today*
+- 🔀 **[Byron/dua-cli](https://github.com/Byron/dua-cli)** · [#379](https://github.com/Byron/dua-cli/pull/379) Match macOS `du` allocation accounting · *1 day ago*
 - 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#5](https://github.com/nshcr/jjc/pull/5) test: stabilize terminal resize exit timing · *1 week ago*
 - 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#4](https://github.com/nshcr/jjc/pull/4) test: expand realistic terminal coverage · *1 week ago*
 - 🟣 **[nshcr/jj-codex](https://github.com/nshcr/jj-codex)** · [#1](https://github.com/nshcr/jj-codex/pull/1) docs: improve GitHub project page · *1 month ago*
@@ -81,4 +81,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-08-22 00:04:48 UTC</sub>
+<sub>Last updated: 2026-08-23 00:03:58 UTC</sub>
