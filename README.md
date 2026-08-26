@@ -1,8 +1,8 @@
 ###### Recent Contributions
 
-- 🔀 **[Byron/dua-cli](https://github.com/Byron/dua-cli)** · [#379](https://github.com/Byron/dua-cli/pull/379) Match macOS `du` allocation accounting · *3 days ago*
-- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#5](https://github.com/nshcr/jjc/pull/5) test: stabilize terminal resize exit timing · *1 week ago*
-- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#4](https://github.com/nshcr/jjc/pull/4) test: expand realistic terminal coverage · *1 week ago*
+- 🟣 **[Byron/dua-cli](https://github.com/Byron/dua-cli)** · [#379](https://github.com/Byron/dua-cli/pull/379) Match macOS `du` allocation accounting · 💬 4 · *4 days ago*
+- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#5](https://github.com/nshcr/jjc/pull/5) test: stabilize terminal resize exit timing · *2 weeks ago*
+- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#4](https://github.com/nshcr/jjc/pull/4) test: expand realistic terminal coverage · *2 weeks ago*
 - 🟣 **[nshcr/jj-codex](https://github.com/nshcr/jj-codex)** · [#1](https://github.com/nshcr/jj-codex/pull/1) docs: improve GitHub project page · *1 month ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *4 months ago*
 - 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *4 months ago*
@@ -24,22 +24,22 @@ quadrantChart
     quadrant-4 Issue-led
     gitbutler: [0.721, 0.828]
     DockAutoHide: [0.080, 0.650]
-    jjc: [0.080, 0.340]
-    obsidian-linter: [0.148, 0.240]
-    ollama-js: [0.193, 0.220]
-    obsidian-minimal: [0.239, 0.300]
+    jjc: [0.080, 0.350]
+    obsidian-linter: [0.148, 0.230]
+    ollama-js: [0.171, 0.200]
+    obsidian-minimal: [0.239, 0.270]
     alt-tab-macos: [0.352, 0.080]
-    jj-codex: [0.103, 0.180]
-    pnpm: [0.171, 0.120]
-    chrome-redirect-skipper: [0.216, 0.380]
-    InputSourcePro: [0.261, 0.140]
-    build-extra: [0.307, 0.200]
-    dua-cli: [0.329, 0.280]
-    mihon: [0.284, 0.360]
-    tauri: [0.420, 0.160]
-    vitepress: [0.125, 0.100]
-    gitbutler-docs: [0.397, 0.260]
-    orbstack: [0.375, 0.320]
+    dua-cli: [0.103, 0.140]
+    jj-codex: [0.216, 0.100]
+    pnpm: [0.261, 0.160]
+    chrome-redirect-skipper: [0.193, 0.370]
+    InputSourcePro: [0.307, 0.290]
+    build-extra: [0.329, 0.390]
+    mihon: [0.125, 0.330]
+    tauri: [0.284, 0.120]
+    vitepress: [0.420, 0.180]
+    gitbutler-docs: [0.397, 0.250]
+    orbstack: [0.375, 0.310]
 ```
 
 <details>
@@ -72,8 +72,8 @@ quadrantChart
 | | 🟢 Open Issues | 6 | 6.6% |
 | | ⚫ Closed Issues | 7 | 7.7% |
 | | **Pull Requests Created** | **56** | **61.5%** |
-| | 🟣 Merged PRs | 46 | 50.5% |
-| | 🟢 Open PRs | 1 | 1.1% |
+| | 🟣 Merged PRs | 47 | 51.6% |
+| | 🟢 Open PRs | 0 | 0.0% |
 | | 🔴 Closed PRs | 9 | 9.9% |
 | **Participated** | **Comments & Discussions** | **21** | **23.1%** |
 | | **Code Reviews** | **1** | **1.1%** |
@@ -81,4 +81,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-08-25 00:04:20 UTC</sub>
+<sub>Last updated: 2026-08-26 00:04:52 UTC</sub>
