@@ -1,15 +1,15 @@
 ###### Recent Contributions
 
 - 🟣 **[Byron/dua-cli](https://github.com/Byron/dua-cli)** · [#379](https://github.com/Byron/dua-cli/pull/379) Match macOS `du` allocation accounting · 💬 4 · *1 month ago*
-- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#5](https://github.com/nshcr/jjc/pull/5) test: stabilize terminal resize exit timing · *1 month ago*
-- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#4](https://github.com/nshcr/jjc/pull/4) test: expand realistic terminal coverage · *1 month ago*
-- 🟣 **[nshcr/jj-codex](https://github.com/nshcr/jj-codex)** · [#1](https://github.com/nshcr/jj-codex/pull/1) docs: improve GitHub project page · *2 months ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#10](https://github.com/nshcr/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *6 months ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#9](https://github.com/nshcr/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *6 months ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#8](https://github.com/nshcr/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *6 months ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#7](https://github.com/nshcr/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *6 months ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#6](https://github.com/nshcr/DockAutoHide/pull/6) build: remove test targets from scheme · *6 months ago*
-- 🟣 **[nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide)** · [#5](https://github.com/nshcr/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *6 months ago*
+- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#5](https://github.com/nshcr/jjc/pull/5) test: stabilize terminal resize exit timing · *2 months ago*
+- 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#4](https://github.com/nshcr/jjc/pull/4) test: expand realistic terminal coverage · *2 months ago*
+- 🟣 **[nshcr/jj-codex](https://github.com/nshcr/jj-codex)** · [#1](https://github.com/nshcr/jj-codex/pull/1) docs: improve GitHub project page · *3 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#10](https://github.com/mayflies-app/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *6 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#9](https://github.com/mayflies-app/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *6 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#8](https://github.com/mayflies-app/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *6 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#7](https://github.com/mayflies-app/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *6 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#6](https://github.com/mayflies-app/DockAutoHide/pull/6) build: remove test targets from scheme · *6 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#5](https://github.com/mayflies-app/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *6 months ago*
 
 ###### Overview
 
@@ -48,7 +48,7 @@ quadrantChart
 | Rank | Repository | Authored | Participated | Total |
 |:----:|------------|----------:|-------------:|------:|
 | **1** | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 43 | 15 | **58** |
-| **2** | [nshcr/DockAutoHide](https://github.com/nshcr/DockAutoHide) | 10 | 0 | **10** |
+| **2** | [mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide) | 10 | 0 | **10** |
 | **3** | [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) | 1 | 3 | **4** |
 | **4** | [nshcr/jjc](https://github.com/nshcr/jjc) | 2 | 0 | **2** |
 | **5** | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | 2 | 0 | **2** |
@@ -81,4 +81,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-10-09 00:05:12 UTC</sub>
+<sub>Last updated: 2026-10-13 00:05:13 UTC</sub>
