@@ -9,7 +9,7 @@
 - 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#8](https://github.com/mayflies-app/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *6 months ago*
 - 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#7](https://github.com/mayflies-app/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *6 months ago*
 - 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#6](https://github.com/mayflies-app/DockAutoHide/pull/6) build: remove test targets from scheme · *6 months ago*
-- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#5](https://github.com/mayflies-app/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *6 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#5](https://github.com/mayflies-app/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *7 months ago*
 
 ###### Overview
 
@@ -81,4 +81,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-10-24 00:04:13 UTC</sub>
+<sub>Last updated: 2026-10-27 00:04:27 UTC</sub>
