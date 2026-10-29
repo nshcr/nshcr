@@ -4,11 +4,11 @@
 - 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#5](https://github.com/nshcr/jjc/pull/5) test: stabilize terminal resize exit timing · *2 months ago*
 - 🟣 **[nshcr/jjc](https://github.com/nshcr/jjc)** · [#4](https://github.com/nshcr/jjc/pull/4) test: expand realistic terminal coverage · *2 months ago*
 - 🟣 **[nshcr/jj-codex](https://github.com/nshcr/jj-codex)** · [#1](https://github.com/nshcr/jj-codex/pull/1) docs: improve GitHub project page · *3 months ago*
-- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#10](https://github.com/mayflies-app/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *6 months ago*
-- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#9](https://github.com/mayflies-app/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *6 months ago*
-- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#8](https://github.com/mayflies-app/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *6 months ago*
-- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#7](https://github.com/mayflies-app/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *6 months ago*
-- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#6](https://github.com/mayflies-app/DockAutoHide/pull/6) build: remove test targets from scheme · *6 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#10](https://github.com/mayflies-app/DockAutoHide/pull/10) ci: enhance release workflow with validation and notarization · *7 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#9](https://github.com/mayflies-app/DockAutoHide/pull/9) build: upgrade Xcode build version to 2640 · *7 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#8](https://github.com/mayflies-app/DockAutoHide/pull/8) build: update app icon to DockAutoHide · *7 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#7](https://github.com/mayflies-app/DockAutoHide/pull/7) build: disable app sandbox and enable apple events in entitlements · *7 months ago*
+- 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#6](https://github.com/mayflies-app/DockAutoHide/pull/6) build: remove test targets from scheme · *7 months ago*
 - 🟣 **[mayflies-app/DockAutoHide](https://github.com/mayflies-app/DockAutoHide)** · [#5](https://github.com/mayflies-app/DockAutoHide/pull/5) fix: base smart switching on actual dock geometry · *7 months ago*
 
 ###### Overview
@@ -81,4 +81,4 @@ quadrantChart
 
 </details>
 
-<sub>Last updated: 2026-10-27 00:04:27 UTC</sub>
+<sub>Last updated: 2026-10-29 00:03:38 UTC</sub>
